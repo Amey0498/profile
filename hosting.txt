@@ -1,0 +1,7 @@
+go to netlify.com //godaddy/namecheap
+
+Version Control
+install git
+open git bash
+create new repository on github
+1st command: git init
