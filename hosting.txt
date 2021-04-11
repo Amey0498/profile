@@ -4,4 +4,8 @@ Version Control
 install git
 open git bash
 create new repository on github
-1st command: git init
+1st: git init
+then git add .
+git status
+git remote add origin "git repo name"
+git push -u origin master
